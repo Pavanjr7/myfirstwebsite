@@ -1,8 +1,3 @@
-/* -----------------------
-   Day 9 – Fonts, Padding, Margins
--------------------------- */
-
-/* Apply a clean font and reset spacing */
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
   color: #333;
@@ -61,3 +56,4 @@ ul, ol {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
